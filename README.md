@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Davide Vigna and I'm a Computer Engineer with a specialization in Arificial Intelligence and Data Engineering and 5 years of working experience as a Full Stack Developer in a software house.<br><br>I completed my Bachelor’s degree in Computer Engineering in Pisa (3-years) in 2018 and promptly started working to enhance and refine my practical skills. A year later, driven by a deep curiosity and strong interest in the workings of artificial intelligence, I decided to advance my education by enrolling in the MSc program (2-years) in Artificial Intelligence and Data Engineering in Pisa, graduating in 2025.</p>
+<p align="left">My name is Davide Vigna and I'm a Computer Engineer with a specialization in Artificial Intelligence and Data Engineering and 5 years of working experience as a Full Stack Developer in a software house.<br><br>I completed my Bachelor’s degree in Computer Engineering in Pisa (3-years) in 2018 and promptly started working to enhance and refine my practical skills. A year later, driven by a deep curiosity and strong interest in the workings of artificial intelligence, I decided to advance my education by enrolling in the MSc program (2-years) in Artificial Intelligence and Data Engineering in Pisa, graduating in 2025.</p>
 
 ###
 

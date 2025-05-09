@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Coding since 2010<br>📚 Currently involved in brushing up my AI general skills to find a job.<br>💼 Seeking a role as an AI/ML Engineer, DevOps Engineer or Software Engineer<br>🎯 Goals: achieve mastery in Deep Neural Networks and enhance my expertise in Computer Vision<br>🎲 Fun fact: my nickname comes from the famous web platform Altervista</p>
+<p align="left">💻 Coding since 2010<br>📚 Currently involved in brushing up my AI general skills to find a job <br>💼 Seeking a role as an AI/ML Engineer, DevOps Engineer or Software Engineer<br>🎯 Goals: achieve mastery in Deep Neural Networks and enhance my expertise in Computer Vision<br>🎲 Fun fact: my nickname comes from the famous web platform Altervista</p>
 
 ###
 
